@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Lalit052
+-   Currently working as a intern in FLip Robo Tech
 - 👀 I’m interested in working on projects with team
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on DataScience projects
